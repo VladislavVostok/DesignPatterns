@@ -143,7 +143,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="composite.cpp" />
-    <ClCompile Include="CompositeUnit.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CompositeUnit.h" />

@@ -20,3 +20,13 @@ public:
 	}
 };
 
+ChemicalElement::ChemicalElement(string pName)
+{
+	name = pName;
+}
+
+
+ChemicalElement::~ChemicalElement()
+{
+}
+

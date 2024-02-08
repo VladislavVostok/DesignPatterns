@@ -143,9 +143,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="adapter.cpp" />
-    <ClCompile Include="ChemicalElement.cpp" />
-    <ClCompile Include="ChemicalElementsInformation.cpp" />
-    <ClCompile Include="ExtendedChemicalElement.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ChemicalElement.h" />
