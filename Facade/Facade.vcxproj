@@ -142,19 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="CityService.cpp" />
-    <ClCompile Include="Construction.cpp" />
-    <ClCompile Include="CountryService.cpp" />
-    <ClCompile Include="EnvironmentalService.cpp" />
     <ClCompile Include="Facade.cpp" />
-    <ClCompile Include="Firm.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="CityService.h" />
-    <ClInclude Include="Construction.h" />
-    <ClInclude Include="CountryService.h" />
-    <ClInclude Include="EnvironmentalService.h" />
-    <ClInclude Include="Firm.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

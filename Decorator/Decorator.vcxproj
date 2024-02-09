@@ -146,19 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Book.cpp" />
-    <ClCompile Include="Borrowable.cpp" />
-    <ClCompile Include="CD.cpp" />
-    <ClCompile Include="CDecorator.cpp" />
-    <ClCompile Include="CollectionItem.cpp" />
     <ClCompile Include="Decorator.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Book.h" />
-    <ClInclude Include="Borrowable.h" />
-    <ClInclude Include="CD.h" />
-    <ClInclude Include="CDecorator.h" />
-    <ClInclude Include="CollectionItem.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -18,37 +18,5 @@
     <ClCompile Include="Facade.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Firm.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="EnvironmentalService.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CityService.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="CountryService.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Construction.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Firm.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="EnvironmentalService.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CityService.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="CountryService.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="Construction.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
