@@ -18,19 +18,5 @@
     <ClCompile Include="flyweight.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="RealCharacter.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="RealCharacterFactory.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="RealCharacter.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="RealCharacterFactory.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

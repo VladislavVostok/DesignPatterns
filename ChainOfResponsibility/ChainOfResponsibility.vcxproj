@@ -143,14 +143,6 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ChainOfResponsibility.cpp" />
-    <ClCompile Include="Manager.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="CEO.h" />
-    <ClInclude Include="Claim.h" />
-    <ClInclude Include="LocalBranchManager.h" />
-    <ClInclude Include="LocalManager.h" />
-    <ClInclude Include="Manager.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

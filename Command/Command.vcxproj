@@ -148,11 +148,6 @@
   <ItemGroup>
     <ClCompile Include="Command.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="RemoteControl.h" />
-    <ClInclude Include="TV.h" />
-    <ClInclude Include="TVCommands.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

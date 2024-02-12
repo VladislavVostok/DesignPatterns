@@ -144,11 +144,6 @@
   <ItemGroup>
     <ClCompile Include="Proxy.cpp" />
   </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="IMath.h" />
-    <ClInclude Include="Math.h" />
-    <ClInclude Include="MathProxy.h" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
