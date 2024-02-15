@@ -142,17 +142,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Aggregate.cpp" />
-    <ClCompile Include="BaseIterator.cpp" />
-    <ClCompile Include="ConcreteAggregate.cpp" />
-    <ClCompile Include="ConcreteIterator.cpp" />
     <ClCompile Include="iterator.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Aggregate.h" />
-    <ClInclude Include="BaseIterator.h" />
-    <ClInclude Include="ConcreteAggregate.h" />
-    <ClInclude Include="ConcreteIterator.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -146,13 +146,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="classroom.cpp" />
     <ClCompile Include="mediator.cpp" />
-    <ClCompile Include="Trainee.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Classroom.h" />
-    <ClInclude Include="Trainee.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

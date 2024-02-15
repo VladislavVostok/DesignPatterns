@@ -14,14 +14,14 @@ public:
 	virtual void Update(Product*)=0;
 };
 // Класс ConcreteObserver
-// Класс для украинских покупателей
-class UkrainianBuyer:public Buyer
+// Класс для русских покупателей
+class RussianBuyer:public Buyer
 {
 private:
 	Product* ptr;
 	string name;
 public:
-	UkrainianBuyer(string pName)
+	RussianBuyer(string pName)
 	{
 		name = pName;
 	}

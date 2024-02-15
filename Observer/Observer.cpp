@@ -10,8 +10,8 @@ int main()
 	Car* bmw = new Car("bmw X9", 100000);
 
 	// создали объекты потенциальных покупателей машины
-	UkrainianBuyer* firstBuyer = new UkrainianBuyer("Petr Mikolaenko");
-	UkrainianBuyer* secondBuyer = new UkrainianBuyer("Oleg Kononenko");
+	RussianBuyer* firstBuyer = new RussianBuyer("Petr Mikolaenko");
+	RussianBuyer* secondBuyer = new RussianBuyer("Oleg Kononenko");
 
 	// покупатели интересуются конкретной машиной
 	bmw->Attach(firstBuyer);

@@ -1,5 +1,6 @@
 #pragma once
 #include "Memento.h"
+
 // класс CareTaker
 // используется для хранения состояния
 class MemoryState
